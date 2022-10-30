@@ -1,0 +1,7 @@
+<svg id="error" xmlns="http://www.w3.org/2000/svg" width="63.547" height="63.547" viewBox="0 0 63.547 63.547">
+  <path id="Path_12349" data-name="Path 12349" d="M1217.921,478.112a31.773,31.773,0,1,1-31.774,31.774h0a31.683,31.683,0,0,1,31.593-31.774Z" transform="translate(-1186.147 -478.112)" fill="red"/>
+  <g id="Group_3419" data-name="Group 3419" transform="translate(22.235 21.468)">
+    <line id="Line_533" data-name="Line 533" x1="19.935" y2="19.935" fill="none" stroke="#fff" stroke-width="7"/>
+    <line id="Line_534" data-name="Line 534" x1="19.935" y2="19.935" transform="translate(19.935) rotate(90)" fill="none" stroke="#fff" stroke-width="7"/>
+  </g>
+</svg>
