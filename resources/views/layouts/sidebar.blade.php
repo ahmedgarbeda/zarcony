@@ -34,6 +34,13 @@
                     <span class="menu-item-label">Users</span>
                 </a><!-- br-menu-link -->
             </li><!-- br-menu-item -->
+
+            <li class="br-menu-item">
+                <a href="{{route('admins.index')}}" class="br-menu-link">
+                    <i class="menu-item-icon icon ion-ios-settings tx-24"></i>
+                    <span class="menu-item-label">Admins</span>
+                </a><!-- br-menu-link -->
+            </li><!-- br-menu-item -->
         </ul><!-- br-sideleft-menu -->
 
 

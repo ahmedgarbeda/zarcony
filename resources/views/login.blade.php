@@ -45,7 +45,7 @@
         <div class="signin-logo tx-center tx-28 tx-bold tx-inverse"><img src="{{asset('assets/admin/download.svg')}}" width="100px"></div>
         <div class="tx-center mg-b-60">Login to your account</div>
 
-        <form method="post" action="{{route('doLogin')}}">
+        <form method="post" action="{{route('admin.doLogin')}}">
             @csrf
 {{--        <div class="form-group">--}}
 {{--            <select class="form-control select2" data-placeholder="Choose Browser" name="type" required>--}}

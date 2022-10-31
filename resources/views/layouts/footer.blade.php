@@ -1,6 +1,6 @@
 <footer class="br-footer">
     <div class="footer-left">
-        <div class="mg-b-2"><h3 class="d-inline">Converted.in</h3><span><img src="{{asset('assets/admin/download.svg')}}" width="50px"></span></div>
+        <div class="mg-b-2"><h3 class="d-inline">Zarcony</h3><span><img src="{{asset('assets/admin/download.svg')}}" width="50px"></span></div>
 
     </div>
 {{--    <div class="footer-right d-flex align-items-center">--}}

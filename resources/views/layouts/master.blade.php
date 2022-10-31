@@ -31,7 +31,7 @@
     <meta name="author" content="ThemePixels">
       <link rel="icon" href="{{asset('assets/admin/download.svg')}}">
 
-    <title>Converted.in</title>
+    <title>Zarcony</title>
 {{--      @notifyCss--}}
     <!-- vendor css -->
     @include('layouts.css')
@@ -42,9 +42,9 @@
   <body>
     <!-- ########## START: LEFT PANEL ########## -->
     @can('show statistics')
-    <div class="br-logo"><a href="{{url('/')}}"><span>Converted.in</span></a></div>
+    <div class="br-logo"><a href="{{url('/')}}"><span>Zarcony</span></a></div>
     @else
-        <div class="br-logo"><span>Converted.in</span></div>
+        <div class="br-logo"><span>Zarcony</span></div>
     @endcan
     @include('layouts.sidebar')
     <!-- ########## END: LEFT PANEL ########## -->
